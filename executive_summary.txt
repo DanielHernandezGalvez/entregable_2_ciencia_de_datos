@@ -1,0 +1,12 @@
+RESUMEN EJECUTIVO - ANÁLISIS BITCOIN vs DÓLAR ETF
+==================================================
+
+EVALUACIÓN DE HIPÓTESIS:
+H1 - Correlación negativa: NO SOPORTADA
+H2 - Efecto volatilidad: SOPORTADA
+H3 - Impacto del volumen: SOPORTADA
+
+RESUMEN ESTADÍSTICO:
+Correlación general: -0.0307
+Mejor modelo: Linear Regression
+R² del mejor modelo: 0.0065
